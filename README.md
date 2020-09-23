@@ -7,6 +7,10 @@ Else GCD(B,A%B)
 
 Example:
 <br/>
-A: 78   =>  A: 36           =>  A: 6            => Answer = 6 
+A: 78, B:36
 <br/>
-B: 36       B: 78%36 = 6        B: 36%6 = 0     => 
+A: 36, B:6 (78%36)
+<br/>
+A: 6,  B:0 (36%6)
+<br/>
+Answer: 6
