@@ -6,5 +6,7 @@ If B = 0 then GCD(A,B)=A, since the GCD(A,0)=A, and we can stop.
 Else GCD(B,A%B)
 
 Example:
-A: 78   =>  A: 36           =>  A: 6            => Answer = 6 <br/>
+<br/>
+A: 78   =>  A: 36           =>  A: 6            => Answer = 6 
+<br/>
 B: 36       B: 78%36 = 6        B: 36%6 = 0     => 
